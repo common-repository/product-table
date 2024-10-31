@@ -1,0 +1,275 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Table for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-30 17:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1.1"
+
+#: includes/class-pt-dashboard.php:89
+msgid "*requires premium"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:139
+msgid "Active Pages"
+msgstr ""
+
+#: includes/class-pt-shortcode.php:303
+msgid "Add to cart"
+msgstr ""
+
+#: includes/class-pt-shortcode.php:368
+msgid "Added"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:90
+msgid ""
+"Allows you to define the columns to be displayed, any not included will be "
+"hidden."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:101
+msgid "Any number"
+msgstr ""
+
+#: includes/class-pt-shortcode.php:211 includes/class-pt-shortcode.php:226
+msgid "Buy"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:198
+msgid "Buy Column"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:68
+msgid ""
+"By default the product table will display with default options, but you can "
+"configure the product table further by using the following options within "
+"the shortcode tag:"
+msgstr ""
+
+#: includes/class-pt-shortcode.php:208 includes/class-pt-shortcode.php:223
+#: includes/class-pt-dashboard.php:81
+msgid "Categories"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:166
+msgid "Category Slugs"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:83
+msgid "category-slug"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:87
+msgid "Columns"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:132
+msgid "Combined Options"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:67
+msgid "Configuration"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:76
+msgid "Description"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:108
+msgid ""
+"Enable or disable ability to order the product table by a column by clicking "
+"the column header."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:96
+msgid ""
+"Enable or disable filters shown in the column headers. Note that searching "
+"must be enabled to allow filters to work (see searching below)"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:126
+msgid ""
+"Enable or disable information shown at the bottom of the table displaying "
+"entry counts and filtering information."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:120
+msgid ""
+"Enable or disable searching the table. Note that disabling searching also "
+"disables filtering as filtering uses the search functionality."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:114
+msgid ""
+"Enable or disable spliting the product table across multiple pages to avoid "
+"long pages."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:74
+msgid "Example"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:93
+msgid "Filters"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://veyroo.com"
+msgstr ""
+
+#: includes/class-pt-shortcode.php:205 includes/class-pt-shortcode.php:220
+msgid "ID"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:137
+msgid ""
+"If you are using page caching (you are using some means of caching dynamic "
+"pages as static content) then our plugin gets product data dynamically by "
+"AJAX as standard, however the shortcode options you use are cached and "
+"therefore if you change your shortcode you should clear your page cache on "
+"the pages the shortcode is used to see the updated product table display."
+msgstr ""
+
+#: includes/class-pt-shortcode.php:204 includes/class-pt-shortcode.php:219
+msgid "Image"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:123
+msgid "Info"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:66
+msgid ""
+"Insert this shortcode into any page, post, template (using the do_shortcode "
+"function) or other location where you want your table to display."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:99
+msgid "Length"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:84
+msgid ""
+"Limits the product table to only show products from specific categories, "
+"enter each category slug comma seperated. Note that if you choose a parent "
+"category then products from sub categories are included. You can find a list "
+"of your category slugs below."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:167
+msgid "List of category slugs to use in the category options above."
+msgstr ""
+
+#: includes/class-pt-shortcode.php:207 includes/class-pt-shortcode.php:222
+msgid "Name"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:160
+msgid "Not used on any pages yet."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:102
+msgid "Number of products to show before pagination (if paging enabled)."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:73
+msgid "Option"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:95 includes/class-pt-dashboard.php:107
+#: includes/class-pt-dashboard.php:113 includes/class-pt-dashboard.php:119
+#: includes/class-pt-dashboard.php:125
+msgid "or"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:105
+msgid "Ordering"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:111
+msgid "Paging"
+msgstr ""
+
+#: includes/class-pt-shortcode.php:209 includes/class-pt-shortcode.php:224
+msgid "Price"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:41 includes/class-pt-dashboard.php:42
+#: includes/class-pt-dashboard.php:63
+msgid "Product Table"
+msgstr ""
+
+#. Name of the plugin
+msgid "Product Table for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Product table for your WooCommerce store. Create tables & price lists easily!"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:140
+msgid "Product table shortcode is used on these pages:"
+msgstr ""
+
+#: includes/class-pt-shortcode.php:468
+msgid "Product table unavailable as WooCommerce not installed or activated."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:65
+msgid ""
+"Product tables can be generated using the shortcode <code>[pt_product_table]"
+"</code>."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:200
+msgid ""
+"Purchasing the premium version ensures we can commit time to develop this "
+"plugin further. Enabling the premium version will enable the buy column if "
+"using the default shortcode <code>[pt_product_table]</code>. If you already "
+"have shortcodes using the columns options, add the buy column to it like "
+"this: <code>[pt_product_table columns=\"id,sku,name,buy\"]</code>."
+msgstr ""
+
+#: includes/class-pt-dashboard.php:117
+msgid "Searching"
+msgstr ""
+
+#: includes/class-pt-ajax.php:163
+msgid "Select"
+msgstr ""
+
+#: includes/class-pt-shortcode.php:206 includes/class-pt-shortcode.php:221
+msgid "SKU"
+msgstr ""
+
+#: includes/class-pt-shortcode.php:295 includes/class-pt-shortcode.php:354
+#: includes/class-pt-shortcode.php:355 includes/class-pt-ajax.php:179
+msgid "Unavailable"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:136
+msgid "Using Page Caching?"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:75
+msgid "Values"
+msgstr ""
+
+#. Author of the plugin
+msgid "Veyroo"
+msgstr ""
+
+#: includes/class-pt-dashboard.php:133
+msgid "You can combine any options like so"
+msgstr ""

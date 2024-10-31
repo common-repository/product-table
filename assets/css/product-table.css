@@ -1,0 +1,25 @@
+#pt-product-table-wrap {
+	width: 100%;
+}
+
+#pt-product-table {
+	width: 100% !important; /* !important neccasary */
+	padding: 20px 0;
+}
+
+#pt-product-table th input {
+	width: 100%;
+}
+
+#pt-product-table td input,
+#pt-product-table td select,
+#pt-product-table td .button {
+	width: 100%;
+	text-align: center;
+}
+
+@media( max-width: 768px ) {
+	#pt-product-table-wrap {
+		overflow-x: scroll;
+	}
+}
